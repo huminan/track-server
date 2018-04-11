@@ -1,0 +1,11 @@
+build/default/debug/TM1616/TM1616.p1:	\
+	TM1616/../sys.h	\
+	TM1616/../LED/led.h	\
+	TM1616/../wifi.h	\
+	TM1616/../timer.h	\
+	TM1616/../interrupt.h	\
+	TM1616/../uart.h	\
+	TM1616/../Gps_recive.h	\
+	TM1616/../74HC595/74HC595.h	\
+	TM1616/../data_structure/queue.h	\
+	TM1616/../TM1616/TM1616.h	\

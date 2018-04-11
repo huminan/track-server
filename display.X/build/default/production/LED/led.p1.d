@@ -1,0 +1,11 @@
+build/default/production/LED/led.p1:	\
+	LED/../interrupt.h	\
+	LED/../LED/led.h	\
+	LED/../wifi.h	\
+	LED/../uart.h	\
+	LED/../Gps_recive.h	\
+	LED/../timer.h	\
+	LED/../sys.h	\
+	LED/../74HC595/74HC595.h	\
+	LED/../data_structure/queue.h	\
+	LED/../TM1616/TM1616.h	\

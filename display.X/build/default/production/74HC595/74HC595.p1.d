@@ -1,0 +1,11 @@
+build/default/production/74HC595/74HC595.p1:	\
+	74HC595/../interrupt.h	\
+	74HC595/../LED/led.h	\
+	74HC595/../wifi.h	\
+	74HC595/../sys.h	\
+	74HC595/../uart.h	\
+	74HC595/../Gps_recive.h	\
+	74HC595/../timer.h	\
+	74HC595/../74HC595/74HC595.h	\
+	74HC595/../data_structure/queue.h	\
+	74HC595/../TM1616/TM1616.h	\
